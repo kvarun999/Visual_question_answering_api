@@ -1,0 +1,21 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments and Secrets
+.env
+venv/
+.venv/
+env/
+
+# Runtime Audit Logs
+audit.log
+
+# IDE and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
